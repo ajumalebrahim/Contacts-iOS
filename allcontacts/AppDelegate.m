@@ -13,7 +13,7 @@
 @implementation AppDelegate
 
 //test squash 1
-
+//test squash 2
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
