@@ -1,2 +1,2 @@
-# allcontacts
+# Contacts
 To get all contact
